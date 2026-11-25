@@ -9,7 +9,7 @@
 ---------------------------
 ## 📝Descripción del Problema
 Este repositorio contiene la solución desarrollada en Python para el problema 3 de la evaluación fianal POA del curso Fundamentos de Programación de la UNAD.
-Este programa administra un inventario almacenado en una matriz bidimensional con 5 productos ([Código, Nombre, Stock Actual, Stock Mínimo]). 
+Este programa administra un inventario almacenado en una matriz bidimensional con 5 productos organizado de la siguiente manera: ([Código, Nombre, Stock Actual, Stock Mínimo]). 
 El cual evalúa de forma automática haciendo uso de una función modular si la cantidad en stock de cada artículo está por debajo del mínimo requerido
 para determinar las unidades exactas a reabastecer.
 ------------
