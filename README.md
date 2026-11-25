@@ -13,7 +13,7 @@ Este programa administra un inventario almacenado en una matriz bidimensional co
 El cual evalúa de forma automática haciendo uso de una función modular si la cantidad en stock de cada artículo está por debajo del mínimo requerido
 para determinar las unidades exactas a reabastecer.
 ------------
-'''python
+```python
 productos = [
     [1, "Cuaderno", 5, 30], 
     [2, "Esfero", 15, 50], 
@@ -37,4 +37,4 @@ for producto in productos:
         print(f"Producto: {nombre} (Código: {codigo}) - Reabastecer: {cantidad\_reabastecer} unidades")
     else:
         print(f"Producto: {nombre} (Código: {codigo}) - No requiere reabastecimiento")
-'''
+```
